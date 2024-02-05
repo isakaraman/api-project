@@ -134,3 +134,4 @@ C:\Users\jesus\source\repos\api\api\obj\Debug\net8.0\refint\api.dll
 C:\Users\jesus\source\repos\api\api\obj\Debug\net8.0\api.pdb
 C:\Users\jesus\source\repos\api\api\obj\Debug\net8.0\api.genruntimeconfig.cache
 C:\Users\jesus\source\repos\api\api\obj\Debug\net8.0\ref\api.dll
+C:\Users\jesus\source\repos\api\api\obj\Debug\net8.0\api.sourcelink.json
