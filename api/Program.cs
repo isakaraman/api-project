@@ -93,7 +93,7 @@ builder.Services.AddAuthentication(options =>
 builder.Services.AddScoped<IStockRepository,StockRepository>();
 builder.Services.AddScoped<ICommendRepository, CommendRepository>();
 builder.Services.AddScoped<ITokenService,TokenService>();
-
+builder.Services.AddScoped<IPortfolioRepository, PorfolioRepository>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
